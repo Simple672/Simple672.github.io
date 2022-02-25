@@ -1,1 +1,1 @@
-document.write("<h1>"+"Hello world" +"</h1>")
+window.alert("It will be a useful calculator for you")
